@@ -2,10 +2,10 @@
 
 Now that you have learned more about Git, on the command line I would like you to do the following:
 
-- [ ] Create a file called `campus_advisor.txt` in the directory you created in Module 1.2
-- [ ] Write "Hello Campus Advisors!" in `campus_advisor.txt` and **commit** your changes
-- [ ] Now write "Hola Campus Advisors!" in `campus_advisor.txt`
-- [ ] Show the differences between your _Working Directory_ and _Staging Area_
+- [x] Create a file called `campus_advisor.txt` in the directory you created in Module 1.2
+- [x] Write "Hello Campus Advisors!" in `campus_advisor.txt` and **commit** your changes
+- [x] Now write "Hola Campus Advisors!" in `campus_advisor.txt`
+- [x] Show the differences between your _Working Directory_ and _Staging Area_
 - [ ] Add `campus_advisor.txt` to your _Staging Area_
 - [ ] Show the differences between your _Staging Area_ and your _Repository_
 - [ ] Commit campus_advisor.txt to your repository
