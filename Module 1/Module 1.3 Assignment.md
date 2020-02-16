@@ -6,7 +6,7 @@ Now that you have learned more about Git, on the command line I would like you t
 - [x] Write "Hello Campus Advisors!" in `campus_advisor.txt` and **commit** your changes
 - [x] Now write "Hola Campus Advisors!" in `campus_advisor.txt`
 - [x] Show the differences between your _Working Directory_ and _Staging Area_
-- [ ] Add `campus_advisor.txt` to your _Staging Area_
+- [x] Add `campus_advisor.txt` to your _Staging Area_
 - [ ] Show the differences between your _Staging Area_ and your _Repository_
 - [ ] Commit campus_advisor.txt to your repository
 
